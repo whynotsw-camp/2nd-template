@@ -1,5 +1,5 @@
-# 2st-template
-whynotsw-camp 2st-template 레포지토리입니다.
+# 2nd-template
+whynotsw-camp 2nd-template 레포지토리입니다.
 
 ----------------------------
 
